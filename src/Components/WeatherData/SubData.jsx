@@ -11,7 +11,7 @@ const SubData = ({humidity,pressure,wind}) => {
     rounded-2xl font-dancing w-full mx-5 '>
 
       <div className=' flex items-center border-b-1 rounded-xl'>
-            <div className='py-3 px-4'>
+            <div className='p-2'>
                <img className=' w-10' src={humidityImg} alt="" />
             </div>
             <div className='p-3'>

@@ -37,7 +37,7 @@ const App = () => {
 
   return (
 <main className=' bg-image text-white flex justify-center items-center w-full min-h-[650px]'>
-  <div className='flex flex-col  backdrop-blur-xs drop-shadow-2xl bg-[rgba(111,111,111,0.5)] mt-10 w-full  min-h-[800px] max-w-[00px] min-w-[400px] max-w-[500px] border-3 border-slate-300 rounded-2xl'>
+  <div className='flex flex-col  backdrop-blur-xs drop-shadow-2xl bg-[rgba(111,111,111,0.5)] mt-10 w-full  min-h-[800px]  max-w-[500px] min-w-[400px] m-3 border-3 border-slate-300 rounded-2xl'>
     <SearchBar input={input} setInput={setInput} handleClick={handleClick} />
     <WeatherData weather={weather} err={error} />
   </div>

@@ -54,7 +54,7 @@
 }
 
 .bg-image {
-  @apply bg-cover bg-center min-h-screen;
+  @apply bg-cover bg-center min-h-screen min-w-screen;
   background-image: url('./assets/bgmain.jpg'); /* Ensure image is in public folder */
 }
 
