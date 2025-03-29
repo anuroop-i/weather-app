@@ -10,7 +10,7 @@ const SunData = ({sunrise,sunset,visibility}) => {
     
         <div className=' flex flex-col items-center 
         bg-grad border-2 border-slate-300 my-5 
-        rounded-2xl  w-full mr-5 font-dancing text-2xl'>
+        rounded-2xl  w-full mr-5 font-dancing '>
     
         
         <div className=' flex items-center border-b-1 rounded-xl'>

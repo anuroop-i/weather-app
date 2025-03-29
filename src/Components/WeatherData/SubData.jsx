@@ -8,7 +8,7 @@ const SubData = ({humidity,pressure,wind}) => {
   return (
     <div className=' flex flex-col items-center 
     bg-grad border-2 border-slate-300 my-5  
-    rounded-2xl font-dancing w-full mx-5 text-2xl'>
+    rounded-2xl font-dancing w-full mx-5 '>
 
       <div className=' flex items-center border-b-1 rounded-xl'>
             <div className='py-3 px-4'>
