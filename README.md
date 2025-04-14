@@ -4,7 +4,7 @@ A sleek and responsive Weather App built with **React.js**, **Tailwind CSS**, an
 
 ## 🚀 Live Demo
 
-Check out the live version of the app here:[Live Weather App](https://anuroop-i.github.io/weather-app/))
+Check out the live version of the app here:[Live Weather App](https://anuroop-i.github.io/weather-app/)
 
 ## 🛠️ Tech Stack
 
